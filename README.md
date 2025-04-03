@@ -30,6 +30,3 @@ Sou apaixonada por **aprender** e **resolver problemas** de forma criativa e atu
 
   Se você tem uma oportunidade interessante, adoraria conversar e ver como posso contribuir! 😊
 </div>
-
-![Snake animation](https://github.com/nath-anastacio/nath-anastacio/blob/output/github-contribution-grid-snake.svg)
-
