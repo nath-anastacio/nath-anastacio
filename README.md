@@ -19,16 +19,20 @@
 
 ## ✨ Sobre mim:
 🎓 **Formação e Aprendizado Contínuo**  
-Atualmente estou cursando Análise e Desenvolvimento de Sistemas e aprimorando meu conhecimento em outras tecnologias através dos cursos da Alura! Adoro **estudar novas tecnologias** 📚 e estou sempre em busca de expandir meus conhecimentos. 
+
+Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando Pós-graduação em **Ciência de Dados** pela **IBMR**. 
+Tenho grande interesse em aprender novas tecnologias e venho me dedicando a projetos acadêmicos e práticos que me permitem aplicar conceitos de desenvolvimento de software e análise de dados.
 
 🎯 **Objetivo Profissional**  
-Sou uma desenvolvedora em busca do meu **primeiro emprego na área** 💼.
-Sou apaixonada por **aprender** e **resolver problemas** de forma criativa e atualmente, estou buscando oportunidades para aplicar meus conhecimentos em **desenvolvimento web e desenvolvimento de software** e crescer como profissional na indústria de tecnologia 🚀. Tenho grande motivação para trabalhar em equipe, contribuir com ideias inovadoras e continuar meu aprendizado em um ambiente desafiador e dinâmico. 
+
+Tenho interesse em atuar nas áreas de **Desenvolvimento Web** e **Ciência de Dados**, aplicando conceitos de **modelagem e extruturação de sistemas**, boas práticas de programação, **análise e visualização de dados**, **integração com banco de dados** e **resolução de problemas** com foco em **eficiência** e **inovação**.
+Meu objetivo é contribuir para o desenvolvimento de soluções tecnológicas que unam a construção de aplicações e extração de insights a partir de dados, sempre com aprendizado contínuo e colaboração em equipe.
+
+Se você tem uma oportunidade interessante, adoraria conversar e ver como posso contribuir! 😊
 
 ## 💬 Você pode me encontrar em:
 <div>
   <a href="https://www.linkedin.com/in/nathalia-anastacio/" target="_blank"><img src= "https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/> </a>
   <a href = "mailto:nathanastacio@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  Se você tem uma oportunidade interessante, adoraria conversar e ver como posso contribuir! 😊
 </div>
