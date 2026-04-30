@@ -6,29 +6,30 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath-anastacio&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
-## 🌱 Atualmente estou aprendendo:
-<div>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="REACT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
-  <img align="center" alt="PYTHON" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-  <img align="center" alt="PANDAS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" />
-  <img align="center" alt="POSTGRESQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</div>
-
 ## ✨ Sobre mim:
 🎓 **Formação e Aprendizado Contínuo**  
+Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Ciência de Dados pela IBMR. Venho me dedicando ao desenvolvimento de projetos práticos em análise de dados e machine learning, aplicando conhecimentos em Python, SQL e ferramentas de visualização.
 
-Sou formada em **Análise e Desenvolvimento de Sistemas** e atualmente estou cursando Pós-graduação em **Ciência de Dados** pela **IBMR**. 
-Tenho grande interesse em aprender novas tecnologias e venho me dedicando a projetos acadêmicos e práticos que me permitem aplicar conceitos de desenvolvimento de software e análise de dados.
-
-🎯 **Objetivo Profissional**  
-
-Tenho interesse em atuar nas áreas de **Desenvolvimento Web** e **Ciência de Dados**, aplicando conceitos de **modelagem e extruturação de sistemas**, boas práticas de programação, **análise e visualização de dados**, **integração com banco de dados** e **resolução de problemas** com foco em **eficiência** e **inovação**.
-Meu objetivo é contribuir para o desenvolvimento de soluções tecnológicas que unam a construção de aplicações e extração de insights a partir de dados, sempre com aprendizado contínuo e colaboração em equipe.
+🎯 **Objetivo Profissional**
+Busco atuar na área de Dados, com foco em Data Analytics e Ciência de Dados, aplicando técnicas de análise exploratória (EDA), tratamento de dados, visualização e modelagem preditiva para gerar insights que apoiem a tomada de decisão. Tenho interesse em contribuir com soluções orientadas a dados, unindo raciocínio analítico, resolução de problemas e aprendizado contínuo.
 
 Se você tem uma oportunidade interessante, adoraria conversar e ver como posso contribuir! 😊
+
+## 🛠️ Tecnologias
+- Python (Pandas, NumPy, Scikit-learn, Matplotlib)  
+- SQL
+- MongoDB 
+- Jupyter Notebook
+- Power BI  
+- Excel Avançado
+- HTML, CSS, JavaScript
+
+## 📊 Conhecimentos
+- Análise de Dados (Data Analysis)
+- Limpeza e Tratamento de Dados (Data Cleaning)
+- Análise Exploratória de Dados (EDA)
+- Visualização de Dados (Data Visualization)
+- Machine Learning (classificação)
 
 ## 💬 Você pode me encontrar em:
 <div>
