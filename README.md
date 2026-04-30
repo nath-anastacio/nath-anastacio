@@ -8,9 +8,11 @@
 
 ## ✨ Sobre mim:
 🎓 **Formação e Aprendizado Contínuo**  
+
 Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Ciência de Dados pela IBMR. Venho me dedicando ao desenvolvimento de projetos práticos em análise de dados e machine learning, aplicando conhecimentos em Python, SQL e ferramentas de visualização.
 
-🎯 **Objetivo Profissional**
+ 🎯 **Objetivo Profissional**
+
 Busco atuar na área de Dados, com foco em Data Analytics e Ciência de Dados, aplicando técnicas de análise exploratória (EDA), tratamento de dados, visualização e modelagem preditiva para gerar insights que apoiem a tomada de decisão. Tenho interesse em contribuir com soluções orientadas a dados, unindo raciocínio analítico, resolução de problemas e aprendizado contínuo.
 
 Se você tem uma oportunidade interessante, adoraria conversar e ver como posso contribuir! 😊
