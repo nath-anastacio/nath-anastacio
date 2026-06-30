@@ -1,15 +1,9 @@
 ## 👋 Olá! Seja bem vindo(a) ao meu perfil!!
 
-<div>
-  <img href="https://github.com/nath-anastacio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nath-anastacio&show_icons=true&theme=dracula&include_all_comits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nath-anastacio&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-## ✨ Sobre mim:
+### ✨ Sobre mim:
 🎓 **Formação e Aprendizado Contínuo**  
 
-Sou formada em Análise e Desenvolvimento de Sistemas e atualmente curso pós-graduação em Ciência de Dados pela IBMR. Venho me dedicando ao desenvolvimento de projetos práticos em análise de dados e machine learning, aplicando conhecimentos em Python, SQL e ferramentas de visualização.
+Sou formada em Análise e Desenvolvimento de Sistemas com pós-graduação completa em Ciência de Dados. Venho me dedicando ao desenvolvimento de projetos práticos em análise de dados e machine learning, aplicando conhecimentos em Python, SQL e ferramentas de visualização.
 
  🎯 **Objetivo Profissional**
 
